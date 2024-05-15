@@ -35,7 +35,8 @@ I enjoy anything related to data and how to extract pieces of information from t
 
 
 <blockquote>
-  <h3 align="center"><em>I Am the All-Range Atomic... who lurks in the shadows to hunt the shadows.</em></h3>
+  <h3 align="center"><em>The best thing a human being can do is to help another human being know more.</em></h3>
+  <h3 align="center">Charlie Munger</h3>
 </blockquote>
 
 
