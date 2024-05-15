@@ -14,19 +14,20 @@
 
 # 👤 About Me 
 
-<!-- ### I am a dedicated learner and enthusiast in **Reverse Engineering** and **Cybersecurity** 🛡️.
-Eager to absorb knowledge 💡, I enjoy diving into new tech and using it to solve practical problems 🌐. Additionally, I am a fervent participant in **Capture The Flag (CTF)** competitions 🏁.
+### I am an AI engineer and a Data Science Enthusiast
+Eager to absorb knowledge 💡, I enjoy diving into new AI tools and using it to solve practical problems 🌐.
+I enjoy anything related to data and how to extract pieces of information from total scraps.
 
--->
+
   </td>
     <td valign="top" width="50%" style="border:none;">
 
 ## 🛠️ My Skills
 
-- Reverse Engineering
-- Malware Analysis
-- Cybersecurity
-- CTFs
+- Data Analysis
+- Data Science
+- Machine Learning
+- Visualization
 - Problem Solving
  <br>
  
@@ -40,23 +41,21 @@ Eager to absorb knowledge 💡, I enjoy diving into new tech and using it to sol
 
 <h1 align="center"> Languages and Tools 
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=pandas&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
-![Assembly](https://img.shields.io/badge/-Assembly-808080?style=flat-square&logo=assemblyscript&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=black)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
+![Windows](https://img.shields.io/badge/-Windows-FCC624?style=flat-square&logo=windows&logoColor=black)
 ![OS](https://img.shields.io/badge/-Operating%20Systems-0078D7?style=flat-square&logo=windows&logoColor=white)
+![DataCamp Badge](https://img.shields.io/badge/DataCamp-03EF62?logo=datacamp&logoColor=000&style=flat-square)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4d4d4d?style=flat-square)
 <br>
-  <img src="https://img.shields.io/badge/-IDA%20Pro-030303?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Ghidra-ff4500?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Binary_Ninja-da0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/-VBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-xdbg-2b2b2b?style=flat-square" />
-  <img src="https://img.shields.io/badge/-dnSpy-2b2b2b?style=flat-square&logo=.net&logoColor=purple" />
+
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)
 
 
+<br>
 
   
   ![cool counter](https://komarev.com/ghpvc/?username=ZeyadMohamad&color=red) 
