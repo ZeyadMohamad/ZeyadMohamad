@@ -15,7 +15,7 @@
 # 👤 About Me 
 
 ### I am an AI engineer and a Data Science Enthusiast
-Eager to absorb knowledge 💡, I enjoy diving into new AI tools and using it to solve practical problems 🌐.
+Eager to absorb knowledge 💡. Enjoy diving into new AI tools and using it to solve practical problems 🌐.
 I enjoy anything related to data and how to extract pieces of information from total scraps.
 
 
@@ -24,11 +24,10 @@ I enjoy anything related to data and how to extract pieces of information from t
 
 ## 🛠️ My Skills
 
-- Data Analysis
 - Data Science
-- Machine Learning
-- Visualization
-- Problem Solving
+- ML / DL
+- NLP
+- Model Deployment
  <br>
  
 </table>
@@ -42,23 +41,31 @@ I enjoy anything related to data and how to extract pieces of information from t
 
 <h1 align="center"> Languages and Tools 
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
-![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)
-![Windows](https://img.shields.io/badge/-Windows-FCC624?style=flat-square&logo=windows&logoColor=black)
-![OS](https://img.shields.io/badge/-Operating%20Systems-0078D7?style=flat-square&logo=windows&logoColor=white)
-![DataCamp Badge](https://img.shields.io/badge/DataCamp-03EF62?logo=datacamp&logoColor=000&style=flat-square)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4d4d4d?style=flat-square)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)](https://keras.io/)
+[![Transformers](https://img.shields.io/badge/Transformers-000?logo=huggingface&logoColor=white)](https://huggingface.co/docs/transformers)
+[![LangChain](https://img.shields.io/badge/LangChain-000?logo=chainlink&logoColor=white)](https://www.langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-000?logo=graph&logoColor=white)](https://github.com/langchain-ai/langgraph)
 <br>
-
-![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
-![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
-![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Gradio](https://img.shields.io/badge/Gradio-FF6F00?logo=gradio&logoColor=white)](https://www.gradio.app/)
+[![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFC107?logo=huggingface&logoColor=white)](https://huggingface.co/)
+<br>
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 
 <br>
-
   
   ![cool counter](https://komarev.com/ghpvc/?username=ZeyadMohamad&color=red) 
   
