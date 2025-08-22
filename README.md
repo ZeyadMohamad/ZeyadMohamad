@@ -14,7 +14,7 @@
 
 # 👤 About Me 
 
-### I am an AI engineer and a Data Science Enthusiast
+### I am an AI and Data Science Enthusiast
 Eager to absorb knowledge 💡. Enjoy diving into new AI tools and using it to solve practical problems 🌐.
 I enjoy anything related to data and how to extract pieces of information from total scraps.
 
